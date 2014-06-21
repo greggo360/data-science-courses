@@ -1,0 +1,5 @@
+install.packages("swirl")
+library(swirl)
+setwd("C:/Users/561518/data-science-courses/Programming in R")
+rm(list=ls())
+swirl()
